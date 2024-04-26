@@ -9,12 +9,17 @@ function Home() {
   const [showCart, setShowCart] = useState(false);
 
   useEffect(() => {
-    fetch('products.json')
-      .then(response => response.json())
+    fetch('../Products.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
       .then(data => setProducts(data.products))
       .catch(error => console.error('Error fetching products:', error));
   }, []);
-
+  
   const cartItems = useSelector(state => state.cart.items);
   const cartItemCount = cartItems ? cartItems.length : 0;
 
