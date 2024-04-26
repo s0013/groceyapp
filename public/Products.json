@@ -9,92 +9,87 @@
       {
         "id": 2,
         "title": "Tomatoes",
-        "image": "https://example.com/tomatoes.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvoBzQbqHJSDFul0aq88i5nWFa5-ApDBB0Vw&s",
         "price": 12
       },
       {
         "id": 3,
         "title": "Potatoes",
-        "image": "https://example.com/potatoes.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_HbsORjIYIEPwSlpkF6KlqKnIxl75vyVzUa450Y98A&s",
         "price": 15
       },
       {
         "id": 4,
         "title": "Bread",
-        "image": "https://example.com/bread.jpg",
+        "image": "https://static.toiimg.com/thumb/57627029.cms?imgsize=358184&width=800&height=800",
         "price": 8
       },
       {
         "id": 5,
         "title": "Bananas",
-        "image": "https://example.com/bananas.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHbCevZSaUjw4-BCosjMpNAqOlXoqh-Cy8lg__r_Lf8Q&s",
         "price": 7
       },
       {
         "id": 6,
         "title": "Milk",
-        "image": "https://example.com/milk.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa57pfVv37JT-RQ9oSQGhRyWgq9Pv0Rx-CKfBLvzv0uA&s",
         "price": 10
       },
       {
         "id": 7,
         "title": "Eggs",
-        "image": "https://example.com/eggs.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYOq5bevdsc_0m8wSGCK8S3wEjH-78JIZ1w&s",
         "price": 25
       },
       {
         "id": 8,
         "title": "Cheese",
-        "image": "https://example.com/cheese.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSayocbd8VayyPBgSg7lDNBAn52aVkz0NwBw&s",
         "price": 20
       },
       {
         "id": 9,
         "title": "Yogurt",
-        "image": "https://example.com/yogurt.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSeMCGaqCcTuyJmDXasbFyNmewvlvou1Pw_g&s",
         "price": 22
       },
       {
         "id": 10,
         "title": "Carrots",
-        "image": "https://example.com/carrots.jpg",
+        "image": "https://blog-images-1.pharmeasy.in/blog/production/wp-content/uploads/2021/04/23175719/shutterstock_440493100-1.jpg",
         "price": 18
       },
       {
         "id": 11,
         "title": "Onions",
-        "image": "https://example.com/onions.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5tGPToiRpYFgsprBIt5p07ewQENfX5R4ndd26RMZ1RQYIHy6pJtPLVrBualye7lQw54&usqp=CAU",
         "price": 30
       },
       {
         "id": 12,
         "title": "Cucumbers",
-        "image": "https://example.com/cucumbers.jpg",
+        "image": "https://articles-1mg.gumlet.io/articles/wp-content/uploads/2016/05/slides-cucumbers1-2.jpg?compress=true&quality=80&w=640&dpr=2.6",
         "price": 28
       },
       {
         "id": 13,
         "title": "Bell Peppers",
-        "image": "https://example.com/bell_peppers.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlezGsZIuVl71IMzoZsQmBV25f6afiuazmKg&s",
         "price": 35
       },
       {
         "id": 14,
         "title": "Lettuce",
-        "image": "https://example.com/lettuce.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLCYUl7p9XcVXDUjouM0yfyGPMIpv6gTU0wg&s",
         "price": 32
       },
       {
         "id": 15,
         "title": "Oranges",
-        "image": "https://example.com/oranges.jpg",
-        "price": 40
-      },
-      {
-        "id": 16,
-        "title": "Oranges",
-        "image": "https://example.com/oranges.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD5G49ySrypNpa9vdDRJFBf6-sWUPhCWaCng&s",
         "price": 40
       }
+      
     ]
   }
